@@ -31,7 +31,7 @@
     "@angular/forms": "^21.1.4",
     "@angular/platform-browser": "^21.1.4",
     "@angular/router": "^21.1.4",
-    "@semantic-components/ui": "^0.63.0",
+    "@semantic-components/ui": "^0.64.0",
     "@semantic-icons/lucide-icons": "^0.56.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
