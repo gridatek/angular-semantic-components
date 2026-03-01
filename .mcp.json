@@ -2,7 +2,7 @@
   "mcpServers": {
     "semantic-components": {
       "command": "npx",
-      "args": ["-y", "@semantic-components/mcp-server"]
+      "args": ["-y", "@semantic-components/mcp-server@0.70.0"]
     }
   }
 }
