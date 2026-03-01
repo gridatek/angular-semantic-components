@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "semantic-components": {
+      "command": "npx",
+      "args": ["-y", "@semantic-components/mcp-server"]
+    }
+  }
+}
