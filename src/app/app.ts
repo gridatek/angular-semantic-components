@@ -8,7 +8,7 @@ import { ScButton } from '@semantic-components/ui';
   template: `
     <h1>Hello, {{ title() }}</h1>
 
-    <button sc-button>Default</button>
+    <button scButton>Default</button>
 
     <router-outlet />
   `,
