@@ -14,4 +14,23 @@ export const routes: Routes = [
     path: 'sign-up',
     loadComponent: () => import('./auth/sign-up').then((m) => m.SignUp),
   },
+  {
+    path: 'settings',
+    loadComponent: () =>
+      import('./settings/settings').then((m) => m.Settings),
+  },
+  {
+    path: 'users',
+    loadComponent: () => import('./users/users').then((m) => m.Users),
+  },
+  {
+    path: 'notifications',
+    loadComponent: () =>
+      import('./notifications/notifications').then((m) => m.Notifications),
+  },
+  {
+    path: 'components',
+    loadComponent: () =>
+      import('./components/components').then((m) => m.Components),
+  },
 ];
